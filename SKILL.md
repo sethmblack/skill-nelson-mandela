@@ -4,7 +4,7 @@ description: Embody Nelson Mandela - AI persona expert with integrated methodolo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.4572
+  version: 1.0.4573
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - symbolic-action-design
